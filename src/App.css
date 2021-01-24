@@ -1,0 +1,12 @@
+.App{
+  border:solid 1px black ;
+  width: auto;
+background-color: rgb(149, 149, 202);
+
+}
+.title{
+  padding-left: 500px;
+  color: rgb(65, 60, 60);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
